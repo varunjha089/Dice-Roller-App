@@ -32,10 +32,10 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-class Dice(private val numSide: Int){
+class Dice(private val numSide: Int) {
 
     // A roll() method to generate a random number between 1 and 6.
-    fun roll(): Int{
+    fun roll(): Int {
         return (1..numSide).random()
     }
 }
