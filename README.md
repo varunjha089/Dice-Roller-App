@@ -5,9 +5,9 @@ Create an interactive Dice Roller app from
 
 
 This is from "ANDROID BASICS IN KOTLIN"
-    - Unit 1: Kotlin basics
-        - Add a button to an app
-            - Create an interactive Dice Roller app
+- Unit 1: Kotlin basics
+    - Add a button to an app
+        - Create an interactive Dice Roller app
             
 
 This codelab is completed.
